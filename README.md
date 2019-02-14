@@ -8,11 +8,11 @@ More information on each packages is written in the corresponding module's folde
 - Gesture and Action Recognition Module
   - The Gesture Recognition module is responsible for recognizing the gestures and actions that are performed by children both in real time as well as in offline tasks. 
 -  Distant speech recognition module 
-  - The Distant Speech Recognition module is employed for real time and continuous recognition of children’s speech (can also be used in offline tasks).
+    - The Distant Speech Recognition module is employed for real time and continuous recognition of children’s speech (can also be used in offline tasks).
 - AudioVisual Diarization module
   - The audiovisual diarization module receives input from the speaker localization module and the kinect API in order to increase both the accuracy of localization as well as achieve speaker diarization. 
 - Speaker localization module
-  -The speaker localization module is used in order to recognize the position/angle of a speaker so that the robot can face him/her while talking. 
+    - The speaker localization module is used in order to recognize the position/angle of a speaker so that the robot can face him/her while talking. 
 - 3D Object Tracking Module
   - The Object Tracking module estimates the 6-DoF poses (positions and orientations) of a number of movable objects that the children are expected to interact with.
 - Wizard-of-Oz
